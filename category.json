@@ -1,0 +1,29 @@
+{
+
+	"categories": [{
+			"name": "Venus"
+		},
+		{
+			"name": "Earth"
+		},
+		{
+			"name": "Mars"
+		},
+		{
+			"name": "Jupiter"
+		},
+		{
+			"name": "Saturn"
+		},
+		{
+			"name": "Uranus"
+		},
+		{
+			"name": "Neptune"
+		}
+	],
+
+	"default_expireday": 90,
+	"default_radius": 100
+
+}
